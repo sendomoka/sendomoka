@@ -34,7 +34,6 @@
       <a href="https://github.com/jehianth?tab=repositories&q=&type=&language=&sort=stargazers">
         <picture>
           <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=jehianth&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true">
-          <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=enjidev&count_private=true" />
           <img alt="Jehian's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=jehianth&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true" />
         </picture>
       </a>
@@ -42,7 +41,6 @@
       <a href="https://github.com/jehianth?tab=repositories&q=&type=&language=&sort=stargazers">
         <picture>
           <source srcset="https://github-readme-stats.vercel.app/api?username=jehianth&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true&ring_color=7733ff">
-          <source srcset="https://github-readme-stats.vercel.app/api?username=jehianth" />
           <img alt="Jehian's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jehianth&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true&ring_color=7733ff" />
         </picture>
       </a>
