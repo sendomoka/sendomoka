@@ -6,7 +6,7 @@
 <header>
   <div align="center">
     <a href="https://jehianth.vercel.app">
-      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=jehianth.vercel.app&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
+      <img alt="My Linkedin Profile" src="https://img.shields.io/static/v1?color=%237733ff&label=Linkedin&message=jehianth&style=flat&logo=linkedin&logoColor=ffffff&labelColor=334155">
     </a>
     <a href="https://twitter.com/jehianth">
       <img alt="My Twitter Profile" src="https://img.shields.io/badge/Twitter-jehianth-7733ff?style=flat&logo=twitter&logoColor=ffffff&labelColor=334155">
