@@ -2,7 +2,7 @@
 {
   "fullname": "Jehian Athaya Tsani Az Zuhry",
   "country": "Indonesia",
-  "about": "Just an ordinary person who loves games, anime, music, and other tech stuff.",
+  "about": "Just an ordinary person who likes japan culture, music, and other tech stuff.",
   "language": "Indonesia & English",
   "learning_tech": {
       "front_end": [
