@@ -18,7 +18,7 @@
       ],
       "database": [
           "MySQL",
-          "NoSQL"
+          "Firebase"
       ],
       "deep_learning": [
           "Keras Python",
