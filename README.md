@@ -2,7 +2,7 @@
 {
   "fullname": "Jehian Athaya Tsani Az Zuhry",
   "country": "Indonesia",
-  "about": "Just your average individual vibin' with Japanese culture, groovin' to the beats of music, and diving deep into the realm of all things tech.",
+  "about": "Regular human, digging Japan's culture, jamming to music, and geeking out over tech.",
   "language": "Indonesia & English",
   "learning_tech": {
       "front_end": [
