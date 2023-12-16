@@ -7,7 +7,6 @@ I am **Jehian**, a Software Engineer proficient in TypeScript and well-versed in
 [![Linkedin: Jehian Athaya](https://img.shields.io/badge/-Jehian%20Athaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jehianth/)](https://www.linkedin.com/in/jehianth/)
 <a href="mailto:jehianbusiness@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jehianbusiness-blue?style=flat-square&logo=email"></a>
 [![](https://komarev.com/ghpvc/?username=jehianth&color=blue&label=Profile%20Views)](https://github.com/jehianth/jehianth)
-[![](https://img.shields.io/github/followers/jehianth?label=GitHub%20Followers)](https://github.com/jehianth)
 
 ## Statistics
 
