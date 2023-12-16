@@ -12,3 +12,10 @@ I am **Jehian**, a Software Engineer proficient in TypeScript and well-versed in
 
 <span><img width="340" src="https://github-readme-stats.vercel.app/api?username=jehianth&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></span>
 <span><img width="258" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jehianth&layout=compact&langs_count=6" /></span>
+
+<details>
+  <summary>#GithubUnwrapped</summary>
+
+  https://github.com/jehianth/jehianth/assets/55863992/cd0dd9d8-7757-4f95-a267-6af571d00a2d
+
+</details>
