@@ -10,8 +10,8 @@ I am **send∅moka** or **Jehian**, a Software Engineer proficient in TypeScript
 
 ## Statistics
 
-<span><img width="340" src="https://github-readme-stats.vercel.app/api?username=jehianth&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></span>
-<span><img width="258" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jehianth&layout=compact&langs_count=6" /></span>
+<span><img width="340" src="https://github-readme-stats.vercel.app/api?username=sendomoka&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></span>
+<span><img width="258" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sendomoka&layout=compact&langs_count=6" /></span>
 
 <details>
   <summary>#GithubUnwrapped</summary>
