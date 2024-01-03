@@ -6,7 +6,7 @@ I am **send∅moka** or **Jehian**, a Software Engineer proficient in TypeScript
 
 [![Linkedin: Jehian Athaya](https://img.shields.io/badge/-Jehian%20Athaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jehianth/)](https://www.linkedin.com/in/jehianth/)
 <a href="mailto:sendomoka0@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sendomoka0-blue?style=flat-square&logo=email"></a>
-[![](https://komarev.com/ghpvc/?username=jehianth&color=blue&label=Profile%20Views)](https://github.com/jehianth/jehianth)
+[![](https://komarev.com/ghpvc/?username=sendomoka&color=blue&label=Profile%20Views)](https://github.com/sendomoka/sendomoka)
 
 ## Statistics
 
