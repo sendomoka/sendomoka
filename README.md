@@ -1,6 +1,6 @@
 # Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-I am **send∅moka** or **Jehian**, a Software Engineer proficient in TypeScript and well-versed in popular frameworks such as Next JS. Not just coding. I am passionate about creating clean and efficient code, automating testing code, and implementing modern design principles to deliver intuitive user experiences. I am always eager to learn new technologies and improve my skills.
+I am [**send∅moka**](https://sendomoka.dev/) or **Jehian**, a Software Engineer proficient in TypeScript and well-versed in popular frameworks such as Next JS. Not just coding. I am passionate about creating clean and efficient code, automating testing code, and implementing modern design principles to deliver intuitive user experiences. I am always eager to learn new technologies and improve my skills.
 
 ## Connect with me
 
