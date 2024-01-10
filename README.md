@@ -10,7 +10,7 @@ I am [**send∅moka**](https://sendomoka.dev/) a.k.a **Jehian**, a Software Engi
 
 ## Statistics
 
-<span><img width="340" src="https://github-readme-stats.vercel.app/api?username=sendomoka&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></span>
+<span><img width="340" src="https://github-readme-stats.vercel.app/api?username=sendomoka&show_icons=true" /></span>
 <span><img width="258" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sendomoka&layout=compact&langs_count=6" /></span>
 
 <details>
