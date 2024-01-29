@@ -11,5 +11,5 @@ I'm [**send∅moka**](https://sendomoka.dev/) a.k.a **Jehian**, an inquisitive s
 
 ## Statistics
 
-<span><img width="420" src="https://github-readme-stats.vercel.app/api?username=sendomoka&show_icons=true" /></span>
+<span><img width="420" src="https://github-readme-stats.vercel.app/api?username=sendomoka&show_icons=true&rank_icon=percentile" /></span>
 <span><img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sendomoka&layout=compact&langs_count=6" /></span>
