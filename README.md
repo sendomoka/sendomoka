@@ -1,6 +1,6 @@
 # Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-I'm [**send∅moka**](https://sendomoka.dev/) a.k.a **Jehian**, an inquisitive software engineering student from Indonesia. I'm passionate about creating things for the web - whether websites, applications or side projects that I occasionally start and forget about. 💭 I enjoy tinkering with back end development and am currently focused on grinding my JavaScript/TypeScript skills. In the future, I aim to learn Rust or Go. I consider myself a lifelong learner - constantly keeping up with new technologies and looking for opportunities to continue growing. Outside of code, you'll find me gaming in my spare time 🎮. Feel free to connect on email or LinkedIn!
+I'm [**send∅moka**](https://sendomoka.dev/) a.k.a **Jehian**, an inquisitive informatics student at Jenderal Soedirman Univerity, Indonesia. I'm passionate about creating things for the web - whether websites, applications or side projects that I occasionally start and forget about. 💭 I enjoy tinkering with back end development and am currently focused on grinding my JavaScript/TypeScript skills. In the future, I aim to learn Rust or Go. I consider myself a lifelong learner - constantly keeping up with new technologies and looking for opportunities to continue growing. Outside of code, you'll find me gaming in my spare time 🎮. Feel free to connect on email or LinkedIn!
 
 ## Connect with me
 
