@@ -15,4 +15,17 @@ I'm [**send∅moka**](https://sendomoka.dev/) a.k.a **Jehian**, an inquisitive i
 <span><img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sendomoka&layout=compact&langs_count=6" /></span>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 30 January 2024 - To: 06 February 2024
+
+Total Time: 5 mins
+
+JavaScript   2 mins          >>>>>>>>>----------------   36.13 %
+TypeScript   1 min           >>>>>>>>-----------------   32.46 %
+CSS          0 secs          >>>>---------------------   16.85 %
+XML          0 secs          >>-----------------------   09.60 %
+HTML         0 secs          >------------------------   04.81 %
+```
+
 <!--END_SECTION:waka-->
