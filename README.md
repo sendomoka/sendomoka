@@ -19,15 +19,15 @@ I'm [**send∅moka**](https://sendomoka.dev/) a.k.a **Jehian**, an inquisitive i
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 March 2024 - To: 13 March 2024
+From: 07 March 2024 - To: 14 March 2024
 
-Total Time: 16 hrs 17 mins
+Total Time: 18 hrs 37 mins
 
-MDX          9 hrs 31 mins   >>>>>>>>>>>>>>>----------   58.45 %
-TypeScript   2 hrs 59 mins   >>>>>--------------------   18.41 %
-HTML         1 hr 56 mins    >>>----------------------   11.89 %
-JSON         1 hr 24 mins    >>-----------------------   08.61 %
-JavaScript   21 mins         >------------------------   02.19 %
+MDX          9 hrs 46 mins   >>>>>>>>>>>>>------------   52.45 %
+TypeScript   4 hrs 55 mins   >>>>>>>------------------   26.45 %
+HTML         1 hr 56 mins    >>>----------------------   10.40 %
+JSON         1 hr 33 mins    >>-----------------------   08.40 %
+JavaScript   21 mins         -------------------------   01.91 %
 ```
 
 <!--END_SECTION:waka-->
